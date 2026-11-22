@@ -13,7 +13,7 @@ Bu repo, YDT ve YDS'ye hazırlananlar için **160 phrasal verb'lük ücretsiz bi
 
 - [YDT phrasal verb listesi PDF](https://englishafl.site/ydt-yds-phrasal-verb-listesi-englishafl.pdf) (140 KB)
 - [YDT phrasal verb listesi TXT](https://github.com/Kayra0Z/ydt-phrasal-verb-listesi/releases/latest/download/ydt_phrasal_verb_listesi.txt) ve [CSV](https://github.com/Kayra0Z/ydt-phrasal-verb-listesi/releases/latest/download/ydt_phrasal_verb_listesi.csv)
-- Anki destesi: yakında
+- [YDT phrasal verb Anki destesi](https://ankiweb.net/shared/info/2081137670) (160 kart)
 - Aranabilir liste: [englishafl.site/sayfalar/ydt-phrasal-verb-listesi](https://englishafl.site/sayfalar/ydt-phrasal-verb-listesi/)
 
 Hazırlayan: Kayra Y. · [EnglishAFL](https://englishafl.site) · [Telegram kanalı](https://t.me/s/englishafl)
