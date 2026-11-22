@@ -18,6 +18,10 @@ Bu repo, YDT ve YDS'ye hazırlananlar için **160 phrasal verb'lük ücretsiz bi
 
 Hazırlayan: Kayra Y. · [EnglishAFL](https://englishafl.site) · [Telegram kanalı](https://t.me/s/englishafl)
 
+## In English
+
+A free list of the 160 phrasal verbs that matter for the YDT, YDS and YÖKDİL English exams in Turkey. It contains all 129 phrasal verbs that appeared as answer options in the phrasal verb questions of the 28 YDT and YDS papers from 2018 to 2026, plus the 31 that came up most often in the reading passages. Each entry has its Turkish meaning, a one-word English equivalent (carry out = conduct), an example sentence, how many exams it appeared in and how many times it was an answer option. It comes as a PDF, TXT, CSV and an Anki deck, licensed under GPLv3. The searchable list is at [englishafl.site/sayfalar/ydt-phrasal-verb-listesi](https://englishafl.site/sayfalar/ydt-phrasal-verb-listesi/).
+
 ## Liste hakkında
 
 | | |
