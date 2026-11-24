@@ -61,6 +61,7 @@ PDF'te her anlamın altında bir örnek cümle var:
 
 - [YDT Kelime Listesi (1300 kelime)](https://englishafl.site/sayfalar/ydt-kelime-listesi/): en gerekli ve önemli kelimeler, anlam ve örnek cümleleriyle.
 - [YDT ve YDS Extended Kelime Listesi (3239 kelime)](https://github.com/Kayra0Z/ydt-kelime-listesi): daha geniş liste.
+- [YDT ve YDS Preposition Listesi (250 kalıp)](https://github.com/Kayra0Z/ydt-preposition-listesi): sınavlarda sorulan preposition'lar ve due to, impact on gibi kalıplar.
 
 Okuma kaynakları ve Anki hakkında bilgiler [Telegram kanalımda](https://t.me/s/englishafl). Kelime, okuma ve deneme analizine dayalı çalışma sistemi: [YDT'ye nasıl çalışılır?](https://englishafl.site/sayfalar/ydt-nasil-calisilir/)
 
