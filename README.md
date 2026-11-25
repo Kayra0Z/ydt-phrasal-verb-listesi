@@ -29,6 +29,7 @@ A free list of the 160 phrasal verbs that matter for the YDT, YDS and YÖKDİL E
 | Phrasal verb sayısı | 160 |
 | İçerik | Türkçe anlamlar, tek kelimelik karşılık, her anlamın altında örnek cümle, kaç sınavda geçtiği, kaç soruda şık olarak çıktığı |
 | Kaynak | ÖSYM'nin 2018–2026 arasındaki tüm YDT ve YDS sınavları (28 sınav, 36 phrasal verb sorusu) |
+| YÖKDİL | Benzer akademik kelimeleri kullandığı için YÖKDİL'e hazırlananlar için de uygun |
 | Format | PDF, TXT, CSV, Anki destesi |
 | Ücret | Ücretsiz, reklamsız |
 
